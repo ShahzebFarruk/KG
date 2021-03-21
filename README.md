@@ -7,6 +7,7 @@ You may need to install the requirements.
 1. Part-1 of the code is based upon [Auto-Generated Knowledge Graphs](https://towardsdatascience.com/auto-generated-knowledge-graphs-92ca99a81121).
 2. Other Link: a. [Clinical Knowledge Graph](https://github.com/MannLabs/CKG) and paper [Clinical Knowledge Graph Integrates Proteomics Data into Clinical Decision-Making](https://www.biorxiv.org/content/10.1101/2020.05.09.084897v1)
                b. [python-knowledge-graph](https://github.com/bdmarius/python-knowledge-graph/blob/master/knowledgegraph.py)
+               
                c. [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a)
 
 ## Colab Links
