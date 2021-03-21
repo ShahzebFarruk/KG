@@ -13,7 +13,7 @@ PART-2 is for the Embeddings.
 2. [python-knowledge-graph](https://github.com/bdmarius/python-knowledge-graph/blob/master/knowledgegraph.py)
 3. [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a)
 
-## Colab Links
+## Colab Links (PART-1)
 1. [KGCreation_test_wiki_extraction.ipynb](https://colab.research.google.com/drive/18Wls31YHwsHmUyp8g3bPV7qWjLPRLoQg?usp=sharing)
 2. [KGCreation_wiki_extraction_1_0.ipynb](https://colab.research.google.com/drive/1CJ229lVm1KDpqLxXUpdKLHG1ufGD0_xt?usp=sharing)
 3. [KGCreation_wiki_extraction_1_1.ipynb](https://colab.research.google.com/drive/1Es3Yh2EWQIWQSSeCwS2sG3qKP05-J28a?usp=sharing)
