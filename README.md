@@ -19,3 +19,5 @@ PART-2 is for the Embeddings.
 3. [KGCreation_wiki_extraction_1_1.ipynb](https://colab.research.google.com/drive/1Es3Yh2EWQIWQSSeCwS2sG3qKP05-J28a?usp=sharing)
 4. [KGCreation_wiki_extraction_1_1a.ipynb](https://colab.research.google.com/drive/1RqkaqGldt6ImH6PV7mXqb5iPgQWwFgQO?usp=sharing)
 5. [KGCreation_wiki_extraction_1_1b.ipynb](https://colab.research.google.com/drive/1VBBiy-PaIGbSpFZbGmsKiJutipZjgPXh?usp=sharing)
+
+## PART-2 See the repo folders
