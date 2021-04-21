@@ -6,7 +6,7 @@ You may need to install the requirements.
 
 The Projct is divided into two parts for this repo purposes.
 Part-1 is the below Google Colab links for KG Generation and triplets.
-PART-2 is for the Embeddings.
+PART-2 is for the Knowledge Embeddings used PyKeen pipeline to achieve RotatE, TranS , etc.
 
 ### Code Links
 1. Part-1 of the code is based upon [Auto-Generated Knowledge Graphs](https://towardsdatascience.com/auto-generated-knowledge-graphs-92ca99a81121).
