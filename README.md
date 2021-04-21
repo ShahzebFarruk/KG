@@ -1,4 +1,4 @@
-# Knowledge Graph
+# Knowledge Graph + Text Classification
 Open the noetbook and run the cell.
 You may need to install the requirements.
 
