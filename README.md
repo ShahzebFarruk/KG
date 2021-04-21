@@ -1,4 +1,6 @@
 # Knowledge Graph + Text Classification
+This project aims to utililize power of trivial text classsification and apply the output of text classification to Knowledge Graphs.
+## How to run the codes
 Open the noetbook and run the cell.
 You may need to install the requirements.
 
