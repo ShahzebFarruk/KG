@@ -1,5 +1,5 @@
 # Knowledge Graph + Text Classification
-![Alt text](Knowledge-graph/KG.jpg?raw=true "Knowledge Graph for the key word 'Family Medicine' which was web-scraped from Wikipedia")
+![Alt text](ShahzebFarruk/Knowledge-graph/KG.jpg?raw=true "Knowledge Graph for the key word 'Family Medicine' which was web-scraped from Wikipedia")
 
 This project aims to utililize power of trivial text classsification and apply the output of text classification to Knowledge Graphs in order to better classifiy the topics.
 This project scraps the text documents (Corpus) from Wikipedia and then used NER(using neuralcoref & Spacy Lib) to extract the topics and forms triplets in subject->relation->predicate pairs. This output is classified and along side the knowledge embbedings being calculate for the construction of Knowledge Graph.
