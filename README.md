@@ -33,8 +33,7 @@ The idea of Graph Embeddings is being followed to be added in the end of the pip
 
 [KG_P2_Word_embeddings_v2](https://github.com/ShahzebFarruk/Knowledge-graph-part2/tree/main/KG_P2_Graph_embeddings_v2) (part-2 solution)
 
-
-## Pykeen References:
+### Pykeen References:
 PyKEEN (Python KnowlEdge EmbeddiNgs) is a Python package designed to train and evaluate knowledge graph embedding models (incorporating multi-modal information).
 1. [PyKeen Example Code](https://github.com/pykeen/pykeen/blob/master/notebooks/hello_world/Hello%20World!.ipynb)
 ### The following Links were used fromm Pykeen for coding purposes. 
