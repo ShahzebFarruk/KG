@@ -7,6 +7,7 @@ The idea of Graph Embeddings is being followed to be added in the end of the pip
 1. [PyKeen Triples](https://pykeen.readthedocs.io/en/latest/reference/triples.html)
 2. [Pykeen Pipeline](https://pykeen.readthedocs.io/en/latest/api/pykeen.pipeline.pipeline.html#pykeen.pipeline.pipeline)
 
-v2=Latest Code being used and contains the solution
+[KG_P2_Word_embeddings_v2](https://github.com/ShahzebFarruk/Knowledge-graph-part2/tree/main/KG_P2_Graph_embeddings_v2)  v2=Latest Code being used and contains the solution
 
-v1=contains the pykeen demos and experiments.
+[KG_P2_Word_embeddings_v1](https://github.com/ShahzebFarruk/Knowledge-graph-part2/tree/main/KG_P2_Word_embeddings_v1)  v1=contains the pykeen demos and experiments.
+
