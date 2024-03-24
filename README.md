@@ -27,8 +27,20 @@ Note: All these are same pieces of code with 1_1b being the latest.
 5. [KGCreation_wiki_extraction_1_1b.ipynb](https://colab.research.google.com/drive/1VBBiy-PaIGbSpFZbGmsKiJutipZjgPXh?usp=sharing) (Latest)
 
 ## PART-2 See the repo folders
-Note: All the scripts are the same with v2 being the latest.
+The idea of Graph Embeddings is being followed to be added in the end of the pipeline. For this we use the Lib [PyKEEN](https://github.com/pykeen/pykeen) (Python KnowlEdge EmbeddiNgs)
 
-KG_P2_Word_embeddings_v1
+[KG_P2_Word_embeddings_v1](https://github.com/ShahzebFarruk/Knowledge-graph-part2/tree/main/KG_P2_Word_embeddings_v1) (pykeen demos and experiments)
 
-KG_P2_Word_embeddings_v2 (Latest)
+[KG_P2_Word_embeddings_v2](https://github.com/ShahzebFarruk/Knowledge-graph-part2/tree/main/KG_P2_Graph_embeddings_v2) (part-2 solution)
+
+
+## Pykeen References:
+PyKEEN (Python KnowlEdge EmbeddiNgs) is a Python package designed to train and evaluate knowledge graph embedding models (incorporating multi-modal information).
+1. [PyKeen Example Code](https://github.com/pykeen/pykeen/blob/master/notebooks/hello_world/Hello%20World!.ipynb)
+### The following Links were used fromm Pykeen for coding purposes. 
+1. [PyKeen Triples](https://pykeen.readthedocs.io/en/latest/reference/triples.html)
+2. [Pykeen Pipeline](https://pykeen.readthedocs.io/en/latest/api/pykeen.pipeline.pipeline.html#pykeen.pipeline.pipeline)
+
+v2=Latest Code being used and contains the solution
+
+v1=contains the pykeen demos and experiments.
