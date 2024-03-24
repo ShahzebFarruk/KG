@@ -18,11 +18,15 @@ PART-2 is for the Knowledge Embeddings used PyKeen pipeline to achieve RotatE, T
 2. [python-knowledge-graph](https://github.com/bdmarius/python-knowledge-graph/blob/master/knowledgegraph.py)
 3. [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a)
 
-## Colab Links (PART-1)
+## Colab Links (PART-1) 
+Note: All these are same pieces of code with 1_1b being the latest.
 1. [KGCreation_test_wiki_extraction.ipynb](https://colab.research.google.com/drive/18Wls31YHwsHmUyp8g3bPV7qWjLPRLoQg?usp=sharing)
 2. [KGCreation_wiki_extraction_1_0.ipynb](https://colab.research.google.com/drive/1CJ229lVm1KDpqLxXUpdKLHG1ufGD0_xt?usp=sharing)
 3. [KGCreation_wiki_extraction_1_1.ipynb](https://colab.research.google.com/drive/1Es3Yh2EWQIWQSSeCwS2sG3qKP05-J28a?usp=sharing)
 4. [KGCreation_wiki_extraction_1_1a.ipynb](https://colab.research.google.com/drive/1RqkaqGldt6ImH6PV7mXqb5iPgQWwFgQO?usp=sharing)
-5. [KGCreation_wiki_extraction_1_1b.ipynb](https://colab.research.google.com/drive/1VBBiy-PaIGbSpFZbGmsKiJutipZjgPXh?usp=sharing)
+5. [KGCreation_wiki_extraction_1_1b.ipynb](https://colab.research.google.com/drive/1VBBiy-PaIGbSpFZbGmsKiJutipZjgPXh?usp=sharing) (Latest)
 
 ## PART-2 See the repo folders
+Note: All the scripts are the same with v2 being the latest.
+KG_P2_Word_embeddings_v1
+KG_P2_Word_embeddings_v2 (Latest)
